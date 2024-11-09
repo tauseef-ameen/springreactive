@@ -1,5 +1,3 @@
----
-
 # Spring Boot Reactive Employee Service
 
 This project is a Spring Boot application that demonstrates both synchronous and asynchronous endpoints. It serves employee data via traditional and reactive approaches using Spring WebFlux. The application is containerized with Docker, allowing easy deployment and scalability.
@@ -23,8 +21,9 @@ This project is a Spring Boot application that demonstrates both synchronous and
 
 ### Prerequisites
 
-- **Java** 11 or higher
+- **Java** 17
 - **Maven** 3.x
+- **SpringBoot** 3.x
 - **Docker** (optional, for containerization)
 
 ### Installation
