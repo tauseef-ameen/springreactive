@@ -68,7 +68,7 @@ To create and run a Docker container for the application:
 
 2. **Run the Docker container**:
    ```bash
-   docker run -p 8081:8081 springreactive/docker-containerize:0.0.1-SNAPSHOT
+   docker run -p 8080:8080 springreactive/docker-containerize:0.0.2-SNAPSHOT
    ```
 
 The application will be available on `http://localhost:8081`.
